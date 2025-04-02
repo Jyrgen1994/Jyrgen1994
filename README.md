@@ -2,7 +2,7 @@ Hi,
 
 My name is Markus and I've been working as a software engineer for the last few years, working as an integration engineer before that 😃
 
-I've been working as an embedded C++ SW engineer for about a year until a started my current work as fullstack SW engineer at my current position where I've transitioned into a tech lead role.
+I've been working as an embedded C++ SW engineer for about a year until I started at my current workplace as fullstack SW engineer where I've transitioned into a tech lead role since November.
 
 All the best,
 Markus T
